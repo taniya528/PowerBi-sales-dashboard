@@ -19,4 +19,5 @@ It helps analyze sales across cities, time periods, brands, and customer behavio
 - Data Modeling
 
 📷 Dashboard Preview
-![Uploading mobile sales dashboard.png…]()
+![Uploading dashboard.png…]()
+
