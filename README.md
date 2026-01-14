@@ -19,5 +19,4 @@ It helps analyze sales across cities, time periods, brands, and customer behavio
 - Data Modeling
 
 📷 Dashboard Preview
-![Uploading dashboard.png…]()
-
+[Sales Dashboard](dashboard.png)
