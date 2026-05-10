@@ -30,6 +30,10 @@ It helps analyze sales across cities, time periods, brands, and customer behavio
 
 - Dashboard design
 
+- Data Visualization
+
+- Data Cleaning
+
 📷 Dashboard Preview
 ![Sales Dashboard](dashboard.png)
 
