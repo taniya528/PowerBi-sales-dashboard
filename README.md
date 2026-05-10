@@ -4,6 +4,9 @@
 This project presents an interactive Sales Performance Dashboard developed using Power BI.
 It helps analyze sales across cities, time periods, brands, and customer behavior.
 
+## Dataset
+[Download Dataset](https://github.com/taniya528/PowerBi-sales-dashboard/blob/main/sales%20dashboard.pbix)
+
 ## 🔍 Key Insights
 
 - Total Sales, Transactions, Quantity, and Average Price KPIs
@@ -34,6 +37,6 @@ It helps analyze sales across cities, time periods, brands, and customer behavio
 
 - Data Cleaning
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 ![Sales Dashboard](dashboard.png)
 
